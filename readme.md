@@ -7,7 +7,7 @@ Mislav's configuration files for bash, zsh, git, ruby, and more.
 Clone somewhere, then run the `install` script:
 
 ~~~ sh
-$ git clone git://github.com/mislav/dotfiles.git ~/dotfiles
+$ git clone https://github.com/sunway513/dotfiles-1.git ~/dotfiles
 $ ~/dotfiles/install
 ~~~
 
